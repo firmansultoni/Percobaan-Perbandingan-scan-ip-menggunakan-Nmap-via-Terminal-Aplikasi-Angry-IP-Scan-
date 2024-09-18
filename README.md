@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8264cc9a-cc32-4e18-a384-9808f054e841)![image](https://github.com/user-attachments/assets/47944f69-0969-497a-b6ee-e2c259bf2873)# Percobaan-Perbandingan-scan-ip-menggunakan-Nmap-via-Terminal-Aplikasi-Angry-IP-Scan-
+Perbandingan-scan-ip-menggunakan-Nmap-via-Terminal-Aplikasi-Angry-IP-Scan-
 [TUGAS3_FIRMAN_SULTONI_09030582226010.docx](https://github.com/user-attachments/files/17044907/TUGAS3_FIRMAN_SULTONI_09030582226010.docx)
 ## Percobaan dan Perbandingan
 ### 1. Nmap (via Terminal)

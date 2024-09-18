@@ -13,22 +13,6 @@ Perbandingan-scan-ip-menggunakan-Nmap-via-Terminal-Aplikasi-Angry-IP-Scan-
 #### •	Harus digunakan melalui terminal, yang mungkin kurang ramah pengguna.
 ![image](https://github.com/user-attachments/assets/09580394-02c7-40de-9b57-f880d3bea83a)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 2. Zenmap (via Aplikasi)
 ### Zenmap adalah antarmuka grafis untuk Nmap yang membuatnya lebih mudah digunakan. Ini memungkinkan Anda menjalankan pemindaian Nmap dengan antarmuka pengguna yang lebih ramah.
 ## Percobaan:
@@ -50,7 +34,6 @@ Perbandingan-scan-ip-menggunakan-Nmap-via-Terminal-Aplikasi-Angry-IP-Scan-
 ![image](https://github.com/user-attachments/assets/33dd1b63-d6ca-425e-8946-1c5caff4cd3f)
 
 
- 
 ## 3. Angry IP Scanner (via Aplikasi)
 #### Angry IP Scanner adalah alat pemindaian jaringan yang ringan dan mudah digunakan. Ini memungkinkan Anda untuk memindai jaringan dengan cepat untuk menemukan host aktif dan port terbuka.
 ## Percobaan:

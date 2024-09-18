@@ -1,5 +1,5 @@
 Perbandingan-scan-ip-menggunakan-Nmap-via-Terminal-Aplikasi-Angry-IP-Scan-
-[TUGAS3_FIRMAN_SULTONI_09030582226010.docx](https://github.com/user-attachments/files/17044907/TUGAS3_FIRMAN_SULTONI_09030582226010.docx)
+TUGAS3_FIRMAN_SULTONI_09030582226010.pdf
 ## Percobaan dan Perbandingan
 ### 1. Nmap (via Terminal)
 ### Nmap adalah alat pemindaian jaringan yang kuat dan serbaguna yang dapat digunakan melalui terminal. Ini memiliki kemampuan untuk melakukan berbagai jenis pemindaian, seperti pemindaian port, deteksi layanan, dan identifikasi sistem operasi.
